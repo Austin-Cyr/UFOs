@@ -11,7 +11,8 @@ Module 11
       3. State
       4. Country
       5. Shape
-    (add filter image)
+      
+    ![Filter Image](https://github.com/Austin-Cyr/UFOs/blob/main/static/images/Filter_image.PNG)
     
   - The user will be able to enter in their criteria freehand and the web app will return the results upon entry and the tab/enter keystrokes. 
   ![Search Results](https://github.com/Austin-Cyr/UFOs/blob/main/static/images/Search_Results.PNG)
