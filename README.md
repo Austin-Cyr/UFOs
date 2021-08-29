@@ -14,7 +14,7 @@ Module 11
     (add filter image)
     
   - The user will be able to enter in their criteria freehand and the web app will return the results upon entry and the tab/enter keystrokes. 
-  (add search results image)
+  ![Search Results](https://github.com/Austin-Cyr/UFOs/blob/main/static/images/Search_Results.PNG)
   
   - Based on the significant presumed contact in not just one geographic area, time frame or physical site, it seems that we are not alone in this universe. 
   
