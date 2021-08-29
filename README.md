@@ -25,3 +25,5 @@ Module 11
   - In order to support this drawback, I would recommend updating the code to allow for case sensitive entries by the user. Another option, woudl be to provide a drop down menu for those search criteria where a limit search option is available. For example, the drop down for state would show "TN" or "CA" so that the user knows they are not to spell out the state of "Tennessee."
   -  Another area of further development would allow for the "Jumbotron" to freeze at the top of the web app so that the user has a title of what the web page is while scrolling. 
   -  I could also see the need or desire to export the filtered criteria in an excel or csv file for sharing our analysis outside of the web app. 
+
+        ![truth](https://github.com/Austin-Cyr/UFOs/blob/main/static/images/Truth.PNG)
